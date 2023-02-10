@@ -1,7 +1,7 @@
 ~~~~
-This my alx project
-I'm happy to be part of this team
-It has been fun
+This is my alx software engineering project
+I'm happy to be here
+Doing hard things
 ~~~~
-I'm optimistic about the future
+I've developed grit
 ~~~~
